@@ -5,7 +5,7 @@ A complete Machine Learning workflow on the [Kaggle Titanic dataset](https://www
 ## 📁 Project Structure
 
 ```
-├── titanic_churn_task1_task2.ipynb   # Notebook: CV + model comparison + save/load model
+├── walaa.ipynb                        # Notebook: CV + model comparison + save/load model
 ├── train.csv                          # Raw Titanic dataset
 ├── titanic_best_model.joblib          # Saved best pipeline (preprocessing + model)
 ├── app.py                             # Streamlit app for live predictions
